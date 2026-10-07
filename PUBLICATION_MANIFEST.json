@@ -1,0 +1,37 @@
+{
+  "date": "2026-10-07",
+  "title": "DeepSeek API experimental harness",
+  "completion_gate_passed": true,
+  "files": [
+    {
+      "path": ".gitignore",
+      "sha256": "5d88202b853217c723bde4ea54206901e0bb7f1e0e782347d799332a294adc6f",
+      "bytes": 421
+    },
+    {
+      "path": "harness.test.js",
+      "sha256": "851a726a1329b98440bdefd8f3038d3d0b092bb3a0e71a716a2ae37cb4d43a8d",
+      "bytes": 7331
+    },
+    {
+      "path": "index.js",
+      "sha256": "21b5635cc7d73e965f20f45b8420eace55f7d691db3aee8761bdfcc87dc0c962",
+      "bytes": 11451
+    },
+    {
+      "path": "package.json",
+      "sha256": "7ceaeda2d90d2b8f657053aeb1534a21248c779c6d076dd51670419d3a3d1caf",
+      "bytes": 360
+    },
+    {
+      "path": "README.md",
+      "sha256": "115c22dce1af5db65559ad2210ddbff0a6fac6d297bc5cc101783c0a42fd6b5d",
+      "bytes": 3422
+    },
+    {
+      "path": "VERIFICATION.json",
+      "sha256": "8841ee32200f02aa29b9755c3a7df07d82877512d347f99c2aeccee9a82bf1aa",
+      "bytes": 573
+    }
+  ]
+}
