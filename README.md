@@ -26,6 +26,6 @@ Test generation supports JavaScript only. The response must be one code block, p
 
 ## Verification scope
 
-The included offline tests exercise all noninteractive commands, payload construction, environment validation, bounded history, malformed/refused/truncated responses, timeout, concurrent requests, credential redaction, file traversal and link rejection, size limits, and safe generation without code execution. Provider calls are mocked; no API credential, paid request, or live model output was used for verification. Manual interactive terminal behavior and live provider compatibility remain unverified.
+The included offline tests example all noninteractive commands, payload construction, environment validation, bounded history, malformed/refused/truncated responses, timeout, concurrent requests, credential redaction, file traversal and link rejection, size limits, and safe generation without code execution. Provider calls are mocked; no API credential, paid request, or live model output was used for verification. Manual interactive terminal behavior and live provider compatibility remain unverified.
 
 Protocol reference: [DeepSeek Chat Completions](https://api-docs.deepseek.com/api/create-chat-completion/).

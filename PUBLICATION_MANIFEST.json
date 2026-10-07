@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-07",
+  "date": "2026-10-08",
   "title": "DeepSeek API experimental harness",
   "completion_gate_passed": true,
   "files": [
@@ -25,13 +25,13 @@
     },
     {
       "path": "README.md",
-      "sha256": "115c22dce1af5db65559ad2210ddbff0a6fac6d297bc5cc101783c0a42fd6b5d",
-      "bytes": 3422
+      "sha256": "abbb3f47073ebbf4c4f81abcceb8c0a1c78b7e4535a629a98c76f16b842137ee",
+      "bytes": 3421
     },
     {
       "path": "VERIFICATION.json",
-      "sha256": "8841ee32200f02aa29b9755c3a7df07d82877512d347f99c2aeccee9a82bf1aa",
-      "bytes": 573
+      "sha256": "4c501f4c1b25131a11770e69edd0508625e27741e966b4dc5458a37067dcbc6a",
+      "bytes": 577
     }
   ]
 }
